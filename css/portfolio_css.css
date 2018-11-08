@@ -1,0 +1,38 @@
+#navbarStyle {
+    font-family: Georgia;
+    font-size: 20px;
+    color: #000;
+    font-weight: bold;
+}
+
+#zhongWen {
+    color: #000;
+    font-weight: bold;
+    padding: 2% 0 0 5%;
+}
+
+#navbarBox {
+    box-sizing: border-box;
+    border-radius: 12px;
+}
+
+#saminTaiwan {
+    background-image: url("../img/SamTaiwan.jpg");
+    height: 350px;
+    background-attachment: fixed;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5% 0 0 5%;
+}
+
+.display-2 {
+    font-family: 'Lucida Sans';
+    color: brown;
+}
+
+.lead {
+    font-family: 'Lucinda Sans';
+    color: #fff;
+    font-weight: bold;
+}
