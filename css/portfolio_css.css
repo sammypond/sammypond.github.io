@@ -33,6 +33,8 @@
 
 .lead {
     font-family: 'Lucinda Sans';
-    color: #fff;
+    color: brown;
     font-weight: bold;
+    padding: 30px;
+    padding-right: 11.5%;
 }
